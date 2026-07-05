@@ -25,4 +25,4 @@ Projetos
 Os projetos desenvolvidos durante os estudos serão publicados em repositórios próprios e referenciados neste repositório.
 Atualizações
 
-Este repositór
+Este repositório é atualizado continuamente conforme novos conteúdos, exercícios, laboratórios e projetos são desenvolvidos.
