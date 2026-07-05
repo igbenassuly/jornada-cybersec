@@ -12,10 +12,6 @@ Documentar minha evolução técnica e organizar os materiais produzidos ao long
 journey-cybersec/
 ├── README.md
 ├── logica-programacao/
-├── python/
-├── linux/
-├── redes/
-├── seguranca/
 ├── projetos/
 └── recursos/
 
