@@ -8,14 +8,15 @@ Documentar minha evolução técnica por meio de anotações, exercícios, labor
 
 ## Estrutura
 
-```text
 journey-cybersec/
 ├── README.md
-├── git-github/
 ├── logica-programacao/
+├── python/
+├── linux/
+├── redes/
+├── seguranca/
 ├── projetos/
 └── recursos/
-```
 
 Novas pastas serão adicionadas conforme o avanço dos estudos.
 
