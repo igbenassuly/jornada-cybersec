@@ -1,18 +1,1 @@
- · GITIGNORE
-# Python
-__pycache__/
-*.py[cod]
-*.pyc
-.venv/
-venv/
-env/
-.env
- 
-# Editores
-.vscode/
-.idea/
- 
-# Sistema
-.DS_Store
-Thumbs.db
- 
+
